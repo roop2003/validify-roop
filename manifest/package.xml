@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+	<types>
+		<members>*</members>
+		<name>ApexClass</name>
+	</types>
+	<types>
+		<members>Staging_Data__c.Customer_Id__c</members>
+		<members>Staging_Data__c.Email__c</members>
+		<members>Staging_Data__c.Last_4_cc_Digits__c</members>
+		<members>Staging_Data__c.Payment_Method__c</members>
+		<members>Staging_Data__c.first_name__c</members>
+		<members>Staging_Data__c.id__c</members>
+		<members>Staging_Data__c.last_name__c</members>
+		<members>Staging_Data__c.last_payment_date__c</members>
+		<members>Staging_Data__c.phone__c</members>
+		<members>Staging_Data__c.referred_by__c</members>
+		<members>Staging_Data__c.referred_on__c</members>
+		<name>CustomField</name>
+	</types>
+	<types>
+		<members>Staging_Data__c</members>
+		<name>CustomObject</name>
+	</types>
+	<types>
+		<members>Admin</members>
+		<name>Profile</name>
+	</types>
+	<version>55.0</version>
+</Package>
